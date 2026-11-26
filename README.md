@@ -2,6 +2,7 @@
 Bu layihədə müxtəlif bucaqlardan çəkilmiş mebel şəkillərini 6 kateqoriya üzrə (yataq, stul, jurnal masası, yemək masası, komod və divan) tanıyan dərin öyrənmə (Deep Learning) modeli qurulub.
 
 İstifadə olunan Data haqqında
+
 Ümumi həcm: 6 sinif üzrə cəmi 10,364 şəkil.
 
 Siniflərin paylanması:
